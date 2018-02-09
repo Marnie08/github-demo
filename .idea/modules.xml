@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data-driven-builtin/.idea/DataDrivenBuiltIn.iml" filepath="$PROJECT_DIR$/../data-driven-builtin/.idea/DataDrivenBuiltIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data-driven-ext-base/.idea/DataDrivenExtBase.iml" filepath="$PROJECT_DIR$/../data-driven-ext-base/.idea/DataDrivenExtBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../McDonalds/.idea/McDonalds.iml" filepath="$PROJECT_DIR$/../McDonalds/.idea/McDonalds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjectLevel1/.idea/ProjLevel1.iml" filepath="$PROJECT_DIR$/../ProjectLevel1/.idea/ProjLevel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-demo-github.iml" filepath="$PROJECT_DIR$/.idea/git-demo-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-demo-github.iml" filepath="$PROJECT_DIR$/.idea/git-demo-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../explore-libraries/.idea/intro.iml" filepath="$PROJECT_DIR$/../explore-libraries/.idea/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mc-donalds/.idea/mc-donalds.iml" filepath="$PROJECT_DIR$/../mc-donalds/.idea/mc-donalds.iml" />
+    </modules>
+  </component>
+</project>
