@@ -16,8 +16,8 @@ ${SEARCH_TERM}  Ferrari 458
 *** Test Cases ***
 Logged out user should be able to search for products
     [Documentation]  These are some basic info about the test suite
-    #[Tags]  Smoke
-    [Tags]  Current
+    [Tags]  Smoke
+    #  [Tags]  Current
     AmazonApp.Search For Products
 
 Logged out user should be able to view the product

@@ -4,13 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="ProjLevel1" />
-    <orderEntry type="module" module-name="intro" />
     <orderEntry type="module" module-name="McDonalds" />
-    <orderEntry type="module" module-name="DataDrivenBuiltIn" />
-    <orderEntry type="module" module-name="DataDrivenBuiltIn" />
-    <orderEntry type="module" module-name="DataDrivenExtBase" />
-    <orderEntry type="module" module-name="mc-donalds" />
     <orderEntry type="module" module-name="git-demo-github" />
   </component>
   <component name="TestRunnerService">
